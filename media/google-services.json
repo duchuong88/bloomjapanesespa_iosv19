@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "7396399041",
+    "firebase_url": "https://bloom-japanese-spa-default-rtdb.firebaseio.com",
+    "project_id": "bloom-japanese-spa",
+    "storage_bucket": "bloom-japanese-spa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7396399041:android:8c3bd1a6ddfe9d1234c140",
+        "android_client_info": {
+          "package_name": "vn.bloomjapanese"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBisPtcYfpJVJl6CRv--E_kiz00QZm5YXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
